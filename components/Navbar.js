@@ -16,7 +16,7 @@ const Navbar = () => {
             Home
           </Link>
           <Link href="/blog" className="mr-5 hover:text-white">
-            Blog
+            Blogs
           </Link>
           <Link href="/contact" className="mr-5 hover:text-white">
             Contact
